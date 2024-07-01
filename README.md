@@ -17,8 +17,13 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,latex,php,py,unity,visualstudio,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,latex,php,py,r,unity,visualstudio,vscode" />
 <br>
+
+![satoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshin-des&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io)
 
 
 <!--
