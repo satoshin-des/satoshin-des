@@ -5,7 +5,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src=" " width=" "> Hi there
+## <img src="https://giphy.com/gifs/QZ7FYeH8cmnMQ" width="28"> Hi there
 
 - 🧑‍💻 I'm a master's student.
 - 🌱 I’m currently learning C#!
