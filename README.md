@@ -20,6 +20,10 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,latex,php,py,r,unity,visualstudio,vscode" />
 <br>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=default)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io)
 
 
