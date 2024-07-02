@@ -13,6 +13,7 @@
 <br>
 
 
+## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="28"> Activity
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
