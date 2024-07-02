@@ -11,8 +11,6 @@
 - 📫 How to reach me: [Twitter - @satoshin_NCD](https://twitter.com/satoshin_NCD)
 <br>
 
-[![Articles](https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat)](https://qiita.com/satoshin_astonish)
-
 
 ## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,latex,md,mysql,php,py,r,sqlite,ubuntu,unity,visualstudio,vscode" />
@@ -32,6 +30,11 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=default&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+[![Articles](https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat)](https://qiita.com/satoshin_astonish)
+[![Followers](https://badgen.org/img/bluesky/satoshinncd.bsky.social/followers?style=plastic)](https://bsky.app/profile/satoshinncd.bsky.social)
 
 
 <!--
