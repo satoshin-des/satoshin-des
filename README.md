@@ -17,7 +17,7 @@
 <br>
 
 
-## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="28"> Activity
+## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="32"> Activity
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=default)
