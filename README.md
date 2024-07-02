@@ -22,15 +22,17 @@
 
 
 ## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="28"> Activity
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=default)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io)
 
 
 ![satoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshin-des&show_icons=true&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=default)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=default)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=default&column=7)](https://github.com/ryo-ma/github-profile-trophy)
