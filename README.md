@@ -32,8 +32,6 @@
 
 ![satoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshin-des&show_icons=true&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=default)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=default&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
