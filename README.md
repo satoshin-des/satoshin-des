@@ -4,7 +4,6 @@
 </div>
 
 
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media3.giphy.com/media/QZ7FYeH8cmnMQ/giphy.gif?cid=6c09b952yk1iqggtj4hs14qobkgracmntp79wuq7a1ltbg2g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="28"> Hi there
 
 - 🧑‍💻 I'm a master's student.
@@ -12,10 +11,9 @@
 - 📫 How to reach me: [Twitter - @satoshin_NCD](https://twitter.com/satoshin_NCD)
 <br>
 
+[![Articles](https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat)](https://qiita.com/satoshin_astonish)
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+
 ## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,latex,md,mysql,php,py,r,sqlite,ubuntu,unity,visualstudio,vscode" />
 <br>
