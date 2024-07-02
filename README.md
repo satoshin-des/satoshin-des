@@ -12,7 +12,7 @@
 
 
 ## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,php,py,r,typescript,unity,html,mysql,sqlite,dotnet,latex,md,git,powershell,ubuntu,sublime,visualstudio,vscode,anaconda,replit" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,php,py,r,typescript,unity,html,mysql,sqlite,dotnet,latex,md,cmake,git,powershell,ubuntu,svg,sublime,visualstudio,vscode,anaconda,github,replit" />
 <br>
 
 
