@@ -13,6 +13,10 @@
 
 ## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,php,py,r,typescript,unity,html,mysql,sqlite,dotnet,latex,md,cmake,git,powershell,ubuntu,svg,sublime,visualstudio,vscode,anaconda,github,replit" />
+
+<!--
+<img alt="my skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"> <img alt="my skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"> <img alt="my skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55"> <img alt="my skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55"> <img alt="my skills" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55">
+-->
 <br>
 
 
