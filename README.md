@@ -27,7 +27,7 @@
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical)](https://github.com/satoshin-des/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical)
 
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=radical)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satoshin-des&theme=radical)
