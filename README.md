@@ -4,6 +4,10 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/satoshin_NCD?style=flat)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqayY8k-8araHGWCGkm2AYA?style=flat&color=f00&label=@satoshin_&logo=youtube&logoColor=fff)](https://youtube.com/channel/UCqayY8k-8araHGWCGkm2AYA)
 
+  <a href="https://github.com/satoshin-des">
+    <img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat-square" />
+  </a>
+
 ## <img src="https://media3.giphy.com/media/QZ7FYeH8cmnMQ/giphy.gif?cid=6c09b952yk1iqggtj4hs14qobkgracmntp79wuq7a1ltbg2g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="28"> Hi there
 
 - 🧑‍💻 I'm a master's student.
