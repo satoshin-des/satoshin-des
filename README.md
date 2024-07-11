@@ -3,7 +3,6 @@
 [![Followers](https://badgen.org/img/bluesky/satoshinncd.bsky.social/followers?style=flat)](https://bsky.app/profile/satoshinncd.bsky.social)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/satoshin_NCD?style=flat)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqayY8k-8araHGWCGkm2AYA?style=flat&color=f00&label=@satoshin_&logo=youtube&logoColor=fff)](https://youtube.com/channel/UCqayY8k-8araHGWCGkm2AYA)
-
   <a href="https://github.com/satoshin-des">
     <img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat-square" />
   </a>
