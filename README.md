@@ -1,11 +1,21 @@
-![](https://komarev.com/ghpvc/?username=satoshin-des)
-[![Articles](https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat)](https://qiita.com/satoshin_astonish)
-[![Followers](https://badgen.org/img/bluesky/satoshinncd.bsky.social/followers?style=flat)](https://bsky.app/profile/satoshinncd.bsky.social)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/satoshin_NCD?style=flat)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqayY8k-8araHGWCGkm2AYA?style=flat&color=f00&label=@satoshin_&logo=youtube&logoColor=fff)](https://youtube.com/channel/UCqayY8k-8araHGWCGkm2AYA)
-  <a href="https://github.com/satoshin-des">
-    <img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat-square" />
-  </a>
+<p align="left">
+	<img height="20" src="https://komarev.com/ghpvc/?username=satoshin-des">
+	<a href="https://qiita.com/satoshin_astonish">
+		<img heigt="20" src="https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat">
+	</a>
+	<a href="https://bsky.app/profile/satoshinncd.bsky.social">
+		<img height="20" src="https://badgen.org/img/bluesky/satoshinncd.bsky.social/followers?style=flat">
+	</a>
+	<a href="https://twitter.com/satoshin_NCD">
+		<img height="20" src="https://img.shields.io/twitter/follow/satoshin_NCD?style=flat">
+	</a>
+	<a href="https://youtube.com/channel/UCqayY8k-8araHGWCGkm2AYA">
+		<img heght="20" src="https://img.shields.io/youtube/channel/subscribers/UCqayY8k-8araHGWCGkm2AYA?style=flat&color=f00&label=@satoshin_&logo=youtube&logoColor=fff">
+	</a>
+	<a href="https://github.com/satoshin-des">
+		<img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat-square" />
+	</a>
+</p>
 
 ## <img src="https://media3.giphy.com/media/QZ7FYeH8cmnMQ/giphy.gif?cid=6c09b952yk1iqggtj4hs14qobkgracmntp79wuq7a1ltbg2g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="28"> Hi there
 
@@ -44,22 +54,28 @@
 
 ## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="32"> Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=radical)
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=radical">
+</p>
 
 ## Languages
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical)
-
-![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=radical)
-![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satoshin-des&theme=radical)
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=radical">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satoshin-des&theme=radical">
+</p>
 
 ## <img src="https://media1.tenor.com/m/m-54GeV7oQQAAAAC/bocchi-bocchi-the-rock.gif" width="28"> Achievement
 
-![satoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshin-des&show_icons=true&theme=radical)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=default&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=satoshin-des&show_icons=true&theme=radical">
+	<br>
+	<img src="https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=default&column=7)](https://github.com/ryo-ma/github-profile-trophy">
+</p>
 
 
 ## Lattice Algorithms
