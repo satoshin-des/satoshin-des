@@ -13,7 +13,7 @@
 		<img heght="20" src="https://img.shields.io/youtube/channel/subscribers/UCqayY8k-8araHGWCGkm2AYA?style=flat&color=f00&label=@satoshin_&logo=youtube&logoColor=fff">
 	</a>
 	<a href="https://github.com/satoshin-des">
-		<img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat-square" />
+		<img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat" />
 	</a>
 </p>
 
