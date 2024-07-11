@@ -74,7 +74,7 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=satoshin-des&show_icons=true&theme=radical">
 	<br>
-	<img src="https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=default&column=7)](https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://github-profile-trophy.vercel.app/?username=satoshin-des&theme=flat&column=3">
 </p>
 
 
