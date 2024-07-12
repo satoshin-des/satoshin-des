@@ -25,32 +25,61 @@
 <br>
 
 
-## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Skills
-|C|C++|C#|Cython|maxima|processing|Python|Risa/Asir|SageMath|VBA|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55">|<img src="https://www.svgrepo.com/show/373544/cython.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Maxima-new.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|<img src="https://www.svgrepo.com/show/374159/vba.svg" width="55">|
-|Eigen|matplotlib|Numpy|pandas|scipy||||||
-|<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">||||||
-|clang|GCC|||||||||
-|<img src="https://upload.wikimedia.org/wikipedia/uk/c/cb/LLVM_Logo.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="55">|||||||||
-|HTML|Markdown|||||||||
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55">|<img src="https://www.svgrepo.com/show/349446/markdown.svg" width="55">|||||||||
-|Android|Ubuntu|Windows||||||||
-|<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="55">||||||||
-|COCALC|overleaf|Google Colaboratory|Jupyter|||||||
-|<img src="https://cocalc.com/_next/static/media/full.0a70e50d.svg" width="55">|<img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="55">|||||||
-|Unity||||||||||
-|<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" width="55">||||||||||
-|LATEX||||||||||
-|<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="55">||||||||||
-|Git|Sourcetree|||||||||
-|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="55">|||||||||
-|sublime text|VScode|||||||||
-|<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" width="55">|<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="55">|||||||||
-|Visual Studio||||||||||
-|<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="55">||||||||||
-|AviUtl|ibis|Inkscape|MuseScore|NEUTRINO|SoundEngine|UTAU|VOICEVOX|||
-|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/AviUtl_icon.png" width="55">|<img src="https://static.wikia.nocookie.net/logopedia/images/2/29/IbisPaint_X_%28App_Icon%29.png/revision/latest?cb=20220627212236" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MuseScore_Icon.svg" width="55">|<img src="https://studio-neutrino.com/wp-content/uploads/2021/02/icon-300x300.png" width="55">|<img src="https://for-money.com/wp-content/uploads/2018/11/1-2.jpg.webp" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Utau_logo_large.png" width="55">|<img src="https://pbs.twimg.com/profile_images/1467890929365557248/Hk0-nRou_400x400.png" width="55">|||
+## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Languages, tools and etc.
+### Languages
+
+|C|C++|C#|Cython|maxima|
+|:--:|:--:|:--:|:--:|:--:|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55">|<img src="https://www.svgrepo.com/show/373544/cython.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Maxima-new.svg" width="55">|
+|processing|Python|Risa/Asir|SageMath|VBA|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|<img src="https://www.svgrepo.com/show/374159/vba.svg" width="55">|
+
+### Libraries or modules
+|Eigen|matplotlib|Numpy|pandas|scipy|
+|:--:|:--:|:--:|:--:|:--:|
+|<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">|
+
+### Compilers
+|clang|GCC|
+|:--:|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/uk/c/cb/LLVM_Logo.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="55">|
+
+### Markup languages
+|HTML|Markdown|LATEX|
+|:--:|:--:|:--:|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55">|<img src="https://www.svgrepo.com/show/349446/markdown.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="55">|
+
+### OS
+|Android|Ubuntu|Windows|
+|:--:|:--:|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="55">|
+
+### Game Engines
+|Unity|
+|:--:|
+|<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" width="55">|
+
+### Git
+|Git|Sourcetree|
+|:--:|:--:|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="55">|
+
+### Editors
+|sublime text|VScode|
+|:--:|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" width="55">|<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="55">|
+
+### IDEs
+|Visual Studio|
+|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="55">|
+
+### Illustration, composition and otehrs
+|AviUtl|ibis|Inkscape|MuseScore|NEUTRINO|
+|:--:|:--:|:--:|:--:|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/AviUtl_icon.png" width="55">|<img src="https://static.wikia.nocookie.net/logopedia/images/2/29/IbisPaint_X_%28App_Icon%29.png/revision/latest?cb=20220627212236" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MuseScore_Icon.svg" width="55">|<img src="https://studio-neutrino.com/wp-content/uploads/2021/02/icon-300x300.png" width="55">|
+|SoundEngine|UTAU|VOICEVOX|||
+|<img src="https://for-money.com/wp-content/uploads/2018/11/1-2.jpg.webp" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Utau_logo_large.png" width="55">|<img src="https://pbs.twimg.com/profile_images/1467890929365557248/Hk0-nRou_400x400.png" width="55">|||
 
 ## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="32"> Activity
 
