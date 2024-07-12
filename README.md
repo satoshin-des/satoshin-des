@@ -81,8 +81,8 @@
 |AviUtl|ibis|Inkscape|MuseScore|NEUTRINO|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/AviUtl_icon.png" width="55">|<img src="https://static.wikia.nocookie.net/logopedia/images/2/29/IbisPaint_X_%28App_Icon%29.png/revision/latest?cb=20220627212236" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MuseScore_Icon.svg" width="55">|<img src="https://studio-neutrino.com/wp-content/uploads/2021/02/icon-300x300.png" width="55">|
-|SoundEngine|UTAU|VOICEVOX|COEIROINK||
-|<img src="https://for-money.com/wp-content/uploads/2018/11/1-2.jpg.webp" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Utau_logo_large.png" width="55">|<img src="https://pbs.twimg.com/profile_images/1467890929365557248/Hk0-nRou_400x400.png" width="55">|<img src="https://coeiroink.com/images/top/coeiroink-logo.png" width="70">||
+|SoundEngine|UTAU|VOICEVOX|COEIROINK|Domino|
+|<img src="https://for-money.com/wp-content/uploads/2018/11/1-2.jpg.webp" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Utau_logo_large.png" width="55">|<img src="https://pbs.twimg.com/profile_images/1467890929365557248/Hk0-nRou_400x400.png" width="55">|<img src="https://coeiroink.com/images/top/coeiroink-logo.png" width="70">|<img src="https://freesoft-media.com/wp-content/uploads/2023/10/domino-150x150.png" width="55">|
 
 ## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="32"> Activity
 
