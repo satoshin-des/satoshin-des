@@ -42,7 +42,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">|
 |IPython|||||
-|<img src="https://commons.m.wikimedia.org/wiki/Category:IPython#/media/File%3AIPy-logo.png" width="55">|||||
+|<img src="https://banner2.cleanpng.com/20180629/fxo/kisspng-ipython-jupyter-shell-computer-software-bisht-5b3617c07b2788.1439156715302716805045.jpg" width="55">|||||
 
 ### Compilers
 |clang|GCC|
