@@ -15,6 +15,9 @@
 	<a href="https://github.com/satoshin-des">
 		<img height="20" src="https://img.shields.io/github/followers/satoshin-des?label=follow&logo=github&style=flat" />
 	</a>
+	<a href="https://www.instagram.com/satoshin_math.timei/">
+		<img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat" />
+	</a>
 </p>
 
 ## <img src="https://media3.giphy.com/media/QZ7FYeH8cmnMQ/giphy.gif?cid=6c09b952yk1iqggtj4hs14qobkgracmntp79wuq7a1ltbg2g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="28"> Hi there
