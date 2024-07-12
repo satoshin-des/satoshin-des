@@ -34,8 +34,8 @@
 |C|C++|C#|Cython|maxima|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55">|<img src="https://www.svgrepo.com/show/373544/cython.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Maxima-new.svg" width="55">|
-|processing|Python|Risa/Asir|SageMath|VBA|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|<img src="https://www.svgrepo.com/show/374159/vba.svg" width="55">|
+|processing|Python|Risa/Asir|SageMath|wenyan|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Wenyan-lang-Logo.jpg" width="55">|
 
 ### Libraries or modules
 |Eigen|matplotlib|Numpy|pandas|scipy|
