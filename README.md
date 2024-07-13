@@ -18,6 +18,9 @@
 	<a href="https://www.instagram.com/satoshin_math.timei/">
 		<img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat" />
 	</a>
+	<a href="https://nico.ms/user/94046066">
+		<img height="20" src="https://img.shields.io/badge/-niconico-231815?style=flat&logo=niconico&logoColor=white&style=flat">
+	</a>
 </p>
 
 ## <img src="https://media3.giphy.com/media/QZ7FYeH8cmnMQ/giphy.gif?cid=6c09b952yk1iqggtj4hs14qobkgracmntp79wuq7a1ltbg2g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="28"> Hi there
@@ -38,11 +41,11 @@
 |<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Wenyan-lang-Logo.jpg" width="55">|
 
 ### Libraries or modules
-|Eigen|matplotlib|Numpy|pandas|scipy|
+|Eigen|IPython|matplotlib|Numpy|pandas|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">|
-|IPython|||||
-|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/IPy-logo.png" width="55">|||||
+|<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/IPy-logo.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|
+|plotly|scipy||||
+|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">||||
 
 ### Compilers
 |clang|GCC|
