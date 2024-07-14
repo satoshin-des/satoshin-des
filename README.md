@@ -68,9 +68,9 @@
 |<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" width="55">|
 
 ### Git
-|Git|Sourcetree|
-|:--:|:--:|
-|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="55">|
+|Git|GitHub|Sourcetree|
+|:--:|:--:|:--:|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="55">|
 
 ### Editors
 |sublime text|VScode|
