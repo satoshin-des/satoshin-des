@@ -97,7 +97,7 @@
 
 ## Languages
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical&langs_count=10">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical">
 </p>
 
