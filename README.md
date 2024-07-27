@@ -98,12 +98,12 @@
 ## Languages
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical&langs_count=10">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&layout=donut-vertical&theme=radical&langs_count=10">
 </p>
 
 <p align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=radical">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satoshin-des&theme=radical">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satoshin-des&theme=radical&langs_count=10">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satoshin-des&theme=radical&langs_count=10">
 </p>
 
 ## <img src="https://media1.tenor.com/m/m-54GeV7oQQAAAAC/bocchi-bocchi-the-rock.gif" width="28"> Achievement
