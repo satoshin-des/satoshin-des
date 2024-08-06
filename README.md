@@ -93,6 +93,12 @@
 
 ## <img src="https://64.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif" width="32"> Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satoshin-des/satoshin-des/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satoshin-des/satoshin-des/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satoshin-des/satoshin-des/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=radical">
 </p>
