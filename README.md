@@ -55,9 +55,9 @@
 |<img src="https://upload.wikimedia.org/wikipedia/uk/c/cb/LLVM_Logo.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="55">|
 
 ### Markup languages
-|HTML|Markdown|LaTeX|
-|:--:|:--:|:--:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55">|<img src="https://www.svgrepo.com/show/349446/markdown.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="55">|
+|CSS|HTML|Markdown|LaTeX|
+|:--:|:--:|:--:|:--:|
+|<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55">|<img src="https://www.svgrepo.com/show/349446/markdown.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="55">|
 
 ### OS
 |Android|Ubuntu|Windows|
