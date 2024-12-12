@@ -43,11 +43,11 @@
 |<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Wenyan-lang-Logo.jpg" width="55">|||||
 
 ### Libraries or modules
-|Eigen|IPython|matplotlib|Numpy|pandas|
+|DXライブラリ|Eigen|IPython|matplotlib|Numpy|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/IPy-logo.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|
-|plotly|scipy|sympy|||
-|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="55">|||
+|<img src="https://dxlib.xsrv.jp/Image/DxLogo.jpg" width="55">|<img src="https://livedoor.blogimg.jp/tek_nishi/imgs/9/f/9ff5f91d.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/IPy-logo.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|
+|pandas|plotly|scipy|sympy|||
+|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">||
 
 ### Compilers
 |clang|GCC|
