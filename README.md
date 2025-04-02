@@ -34,11 +34,11 @@
 ## <img src="https://i0.wp.com/media.tenor.com/DlRZa66A_Q0AAAAM/yuki-nagato-mouse-wave.gif" width="28"> Languages, tools and etc.
 ### Languages
 
-|C|C++|C#|Cython|HSP|
+|C|C++|C#|Go|HSP|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55">|<img src="https://www.svgrepo.com/show/373544/cython.svg" width="55">|<img src="https://pbs.twimg.com/profile_images/1009315103181684742/n5dSFk6t_400x400.jpg" width="55">|
-|maxima|processing|Python|Risa/Asir|SageMath|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Maxima-new.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="55">|<img src="https://pbs.twimg.com/profile_images/1009315103181684742/n5dSFk6t_400x400.jpg" width="55">|
+|JavaScript|maxima|Python|Risa/Asir|SageMath|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Maxima-new.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="http://www.math.kobe-u.ac.jp/Asir/hopo_std.jpg" width="55">|<img src="https://avatars.githubusercontent.com/u/982721?s=200&v=4" width="55">|
 |wenyan|||||
 |<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Wenyan-lang-Logo.jpg" width="55">|||||
 
