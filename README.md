@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/satoshin-des/satoshin-des/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+	<img src="https://github.com/satoshin-des/satoshin-des/blob/main/images/stat.svg" alt="Satoshin WakaTime Activity"/>
 </p>
 
 ## Languages
