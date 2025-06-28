@@ -3,7 +3,7 @@ name: WakaTime status update
 on:
   schedule:
     # Runs at 4am JST
-    - cron: "30 19 * * *"
+    - cron: "45 07 * * *"
 
 jobs:
   update-readme:
