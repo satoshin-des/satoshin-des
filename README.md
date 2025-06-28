@@ -103,6 +103,10 @@
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=radical">
 </p>
 
+<p align="center">
+	<img src="https://github.com/satoshin-des/satoshin-des/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+</p>
+
 ## Languages
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical&langs_count=10">
