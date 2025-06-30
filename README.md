@@ -1,9 +1,9 @@
 <p align="left">
 	<img height="20" src="https://komarev.com/ghpvc/?username=satoshin-des">
+<a href="https://wakatime.com/@893ba968-c1ab-4d60-9561-da4482e2d3c0"><img src="https://wakatime.com/badge/user/893ba968-c1ab-4d60-9561-da4482e2d3c0.svg" alt="Total time coded since Jun 28 2025" /></a>
 	<a href="https://qiita.com/satoshin_astonish">
 		<img heigt="20" src="https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat">
 	</a>
-<a href="https://wakatime.com/@893ba968-c1ab-4d60-9561-da4482e2d3c0"><img src="https://wakatime.com/badge/user/893ba968-c1ab-4d60-9561-da4482e2d3c0.svg" alt="Total time coded since Jun 28 2025" /></a>
 	<a href="https://bsky.app/profile/satoshinncd.bsky.social">
 		<img height="20" src="https://badgen.org/img/bluesky/satoshinncd.bsky.social/followers?style=flat">
 	</a>
