@@ -3,6 +3,9 @@
 	<a href="https://qiita.com/satoshin_astonish">
 		<img heigt="20" src="https://badgen.org/img/qiita/satoshin_astonish/articles?style=flat">
 	</a>
+<a>
+    <img height="20" src="https://wakatime.com/badge/usr/satoshin.svg">
+</a>
 	<a href="https://bsky.app/profile/satoshinncd.bsky.social">
 		<img height="20" src="https://badgen.org/img/bluesky/satoshinncd.bsky.social/followers?style=flat">
 	</a>
