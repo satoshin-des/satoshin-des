@@ -108,6 +108,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=satoshin&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" />
 </p>
 
+<figure><embed src="https://wakatime.com/share/@satoshin/d1d41212-dc48-4db7-b9bd-83549a142a20.svg"></embed></figure>
+
 ## Languages
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshin-des&exclude_repo=github-readme-stats,satoshin-des.github.io&theme=radical&langs_count=10">
