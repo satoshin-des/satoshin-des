@@ -108,7 +108,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=satoshin&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" />
 </p>
 
-<p align="center"><img src="https://wakatime.com/share/@satoshin/d1d41212-dc48-4db7-b9bd-83549a142a20.svg"></p>
+<p align="center"><img src="https://wakatime.com/share/@satoshin/115c08b5-dc0e-4a02-8047-0592b0711978.svg"></p>
 
 <figure><embed src="https://wakatime.com/share/@satoshin/60b6c5e9-456f-44b4-a608-769cc23ca7d9.svg"></embed></figure>
 
