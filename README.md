@@ -100,16 +100,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satoshin-des/satoshin-des/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
 <p align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshin-des&theme=radical">
 </p>
--->
 
+<!--
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=satoshin&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" />
 </p>
-
+-->
 <p align="center"><img src="https://wakatime.com/share/@satoshin/49fa2e15-4d08-4b27-9f13-35d22e77884d.svg"></p>
 
 ## Languages
