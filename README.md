@@ -23,7 +23,6 @@
 		<img height="20" src="https://img.shields.io/badge/-niconico-231815?style=flat&logo=niconico&logoColor=white&style=flat">
 	</a>
 </p>
-<p><img src="http://www5.kannet.ne.jp/~counter/count.cgi?name=satoshin-des01&type=24&width=9"></p>
 
 ## <img src="https://media3.giphy.com/media/QZ7FYeH8cmnMQ/giphy.gif?cid=6c09b952yk1iqggtj4hs14qobkgracmntp79wuq7a1ltbg2g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="28"> Hi there
 
